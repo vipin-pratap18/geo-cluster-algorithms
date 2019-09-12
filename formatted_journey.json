@@ -1,8 +1,7 @@
 { 
    "type":"STANDARD",
    "additionalData":"SPEED_LIMITS_AND_OVERSPEED",
-   "imei":"353612086695769",
-   "journeyId":"00000826-ebf9-4c05-bbc9-29be956b6a5c",
+   "journeyId":"29be956b6a5c",
    "startedAt":"2019-07-15T16:13:16.500Z",
    "endedAt":"2019-07-15T16:23:27.500Z",
    "positions":[ 
